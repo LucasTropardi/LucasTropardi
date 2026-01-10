@@ -37,11 +37,9 @@
 <h4>Core (Backend-first)</h4>
 <p>
   <img title="Java" src="https://skillicons.dev/icons?i=java" />
-  <img title="Kotlin" src="https://skillicons.dev/icons?i=kotlin" />
   <img title="TypeScript" src="https://skillicons.dev/icons?i=typescript" />
   <img title="JavaScript" src="https://skillicons.dev/icons?i=javascript" />
   <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring" />
-  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
   <img title="NestJS" src="https://skillicons.dev/icons?i=nestjs" />
 </p>
 
