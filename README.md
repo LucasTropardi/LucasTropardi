@@ -103,16 +103,4 @@
   <b>Focus:</b> Clean APIs • Frontend delivery • Performance • DX • CI/CD
 </p>
 
-<h3 align="left">GitHub</h3>
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LucasTropardi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTropardi&layout=compact&hide_title=true&hide_border=true&theme=dark"
-    height="150"
-  />
-</p>
 
