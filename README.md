@@ -19,10 +19,10 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucastropardi">
+  <a href="https://www.linkedin.com/in/lucastropardi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="mailto:lucastropardi@hotmail.com">
+  <a href="mailto:lucastropardi@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-555?logo=gmail&logoColor=white" />
   </a>
 </p>
